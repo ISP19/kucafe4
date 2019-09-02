@@ -56,6 +56,11 @@
 | Menu                                   | Price |
 |:---------------------------------------|------:|
 | Seafood  Platter                       |$25.00 |
+| Garlic Shrimp Scampi                   |$23.00 |
+| Chili-glazed Salmon                    |$22.50 |
+| Homemade Cheese Pizza                  |$20.00 |
+| Teriyaki Chicken with rice             |$15.00 |
+| Pulled Pork                            |$15.50 |
 
 
 We accept PromptPay, KUPay, Alipay, and cash. No credit cards.
