@@ -7,7 +7,7 @@
 | Name   | Role  | Github   |
 |--------|-------|----------|
 | Thanida Jongarnon | Chef | bameethanida |
-|  |  |  |
+| JItta Koopratoomsiri | Manager | jittaearn |
 |  |  |  |
 |  |  |  |
 |  |  |  |
