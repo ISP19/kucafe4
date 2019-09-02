@@ -8,7 +8,7 @@
 |--------|-------|----------|
 | Thanida Jongarnon | Chef | bameethanida |
 | JItta Koopratoomsiri | Manager | jittaearn |
-| Thananan Eimon | Cashier | 326 |
+| Thananan Eimon | Cashier | 326th |
 |  |  |  |
 |  |  |  |
 |  |  |  |
