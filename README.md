@@ -9,6 +9,6 @@
 | Thanida Jongarnon | Chef | bameethanida |
 | JItta Koopratoomsiri | Manager | jittaearn |
 | Thananan Eimon | Cashier | 326th |
-|  |  |  |
+|  Chananya Photan | Chef  |  forfeen  |
 | Arisa Pangpeng |  | kidstylex |
 |  |  |  |
