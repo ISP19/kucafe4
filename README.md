@@ -6,9 +6,10 @@
 
 | Name   | Role  | Github   |
 |--------|-------|----------|
-| Thanida Jongarnon | Chef | bameethanida |
-| Jitta Koopratoomsiri | Manager | jittaearn |
-| Thananan Eimon | Cashier | 326th |
-| Chananya Photan | Chef  |  forfeen  |
-| Gunn Torcheep | Customer | gunnkrub |
-| Arisa Pangpeng | Bartender | kidstylex |
+| Thanida Jongarnon | Breakfast menu | bameethanida |
+| Jitta Koopratoomsiri | Breakfast beverage| jittaearn |
+| Thananan Eimon |Lunch menu| 326th |
+| Chananya Photan | Dinner menu |  forfeen  |
+| Gunn Torcheep | Lunch beverage | gunnkrub |
+| Arisa Pangpeng | Dinner beverage | kidstylex |
+
