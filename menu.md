@@ -15,9 +15,9 @@
 ## Breakfast Menu
 |  Menu   | Price   |
 |:------------|--------:|
-| Buttermilk pancake| $ 10.50|
-| Cinnamon Rolls| $ 11.80|
-| Biscuits & sausage gravy| $ 13.40 |
-| Cheese omelet| $ 15.30 |
-|  Fried chicken and waffle| $ 20.00 |
-| Crab cake benedict| $ 30.50 |
+| Buttermilk pancake| $10.50|
+| Cinnamon Rolls| $11.80|
+| Biscuits & sausage gravy| $13.40 |
+| Cheese omelet| $15.30 |
+| Fried chicken and waffle| $20.00 |
+| Crab cake benedict| $30.50 |
