@@ -10,5 +10,5 @@
 | JItta Koopratoomsiri | Manager | jittaearn |
 | Thananan Eimon | Cashier | 326th |
 |  |  |  |
-|  |  |  |
+| Arisa Pangpeng |  | kidstylex |
 |  |  |  |
