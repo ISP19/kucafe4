@@ -52,6 +52,17 @@
 | Seafood Curry | $5.75 |    
     
 
+## Dinner Beverages
+| Beverages                                   | Price |
+|:---------------------------------------|------:|
+| Soft Drinks (Coke, Diet Coke, Sprite, Apple Soda)                            |  $2.50 |
+| Hot Coffee (regular of decaf)                            |  $2.50 |
+| Hot Jasmine Tea or Green Tea                            |  $2.00 |
+| Friut Juice (by glass)                            |  $3.00 |
+| Herbal Drink Ginger or Lemon Grass (by class)                     |  $3.00 |
+| Bottle Water       |  $1.50 |
+
+
 ## Dinner Menu
 | Menu                                   | Price |
 |:---------------------------------------|------:|
