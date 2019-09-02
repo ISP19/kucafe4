@@ -53,5 +53,9 @@
     
 
 ## Dinner Menu
+| Menu                                   | Price |
+|:---------------------------------------|------:|
+| Seafood  Platter                       |$25.00 |
+
 
 We accept PromptPay, KUPay, Alipay, and cash. No credit cards.
