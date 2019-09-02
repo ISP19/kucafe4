@@ -12,3 +12,5 @@
 | Gunn Torcheep | Customer | gunnkrub |
 |  |  |  |
 |  |  |  |
+| Arisa Pangpeng |  | kidstylex |
+|  |  |  |
