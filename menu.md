@@ -17,12 +17,12 @@
 ## Breakfast Menu
 |  Menu   | Price   |
 |:------------|--------:|
-| Buttermilk pancake| $10.50|
+| Buttermilk Pancake| $10.50|
 | Cinnamon Rolls| $11.80|
-| Biscuits & sausage gravy| $13.40 |
-| Cheese omelet| $15.30 |
-| Fried chicken and waffle| $20.00 |
-| Crab cake benedict| $30.50 |
+| Biscuits & Sausage Gravy| $13.40 |
+| Cheese Omelet| $15.30 |
+| Fried Chicken and Waffle| $20.00 |
+| Crab Cake Benedict| $30.50 |
 
 
 ## Lunch Beverages
@@ -55,23 +55,24 @@
 ## Dinner Beverages
 | Beverages                                   | Price |
 |:---------------------------------------|------:|
-| Soft Drinks (Coke, Diet Coke, Sprite, Apple Soda)                            |  $2.50 |
-| Hot Coffee (regular of decaf)                            |  $2.50 |
+| Bottle Water       |  $1.50 |
 | Hot Jasmine Tea or Green Tea                            |  $2.00 |
+| Soft Drinks (Coke, Diet Coke, Sprite, Apple Soda)                |  $2.50 |
+| Hot Coffee (regular of decaf)                            |  $2.50 |
 | Friut Juice (by glass)                            |  $3.00 |
 | Herbal Drink Ginger or Lemon Grass (by class)                     |  $3.00 |
-| Bottle Water       |  $1.50 |
 
 
 ## Dinner Menu
 | Menu                                   | Price |
 |:---------------------------------------|------:|
-| Seafood  Platter                       |$25.00 |
-| Garlic Shrimp Scampi                   |$23.00 |
-| Chili-glazed Salmon                    |$22.50 |
-| Homemade Cheese Pizza                  |$20.00 |
 | Teriyaki Chicken with rice             |$15.00 |
 | Pulled Pork                            |$15.50 |
+| Homemade Cheese Pizza                  |$20.00 |
+| Chili-glazed Salmon                    |$22.50 |
+| Garlic Shrimp Scampi                   |$23.00 |
+| Seafood  Platter                       |$25.00 |
+
 
 
 We accept PromptPay, KUPay, Alipay, and cash. No credit cards.
